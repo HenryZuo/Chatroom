@@ -3,7 +3,7 @@ Website where an infinite number of users can chat in distinct chatrooms
 
 ## Project Purpose
 
-Needed a project to learn socketIO with. So I built this.
+Needed a project to learn React and socketIO with. So I built this.
 
 ## Key Features
 
@@ -21,7 +21,7 @@ Needed a project to learn socketIO with. So I built this.
 
 ## Key Tools
 
-socketIO
+React, SocketIO
 
 ## Acknowledgments
 
